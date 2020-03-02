@@ -1,24 +1,24 @@
-# README
+# PuntoVLC
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[Link a Heroku](https://frozen-bastion-93607.herokuapp.com/)
 
-Things you may want to cover:
+Proyecto final para Desafío Latam g28 Full Stack
 
-* Ruby version
+PuntoVLC es una aplicación web que llega para dar ayuda a todos los residentes de Valle Lo Campino.
+Su función es poder agrupar y simplificar en un solo lugar, el acceso a toda clase de negocios y servicios que el mismo Valle ofrece para la comunidad.
+¿Tienes una idea de negocio y te gustaría publicarla con nosotros? PuntoVLC puede ayudarte.
 
-* System dependencies
+Aplicación web en desarrollo con Ruby on Rails 5.2.4.1, Bootstrap 4.4 y base de datos PostgreSQL
 
-* Configuration
+El diagrama conceptual muestra las principales entidades con la que trabajará la aplicación:
 
-* Database creation
+![alt text][concept]
 
-* Database initialization
+[concept]: /puntovlc_concept.png "Diagráma conceptual"
 
-* How to run the test suite
+El tablero Trello con el backlog y las historias de usuario está disponible en el siguiente link:
+[Tablero Trello](https://trello.com/b/txDQehSg/puntovlc)
 
-* Services (job queues, cache servers, search engines, etc.)
+![alt text][logic]
 
-* Deployment instructions
-
-* ...
+[logic]: /puntovlc_tables.png "Diagrama lógico"
