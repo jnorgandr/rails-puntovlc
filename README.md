@@ -1,6 +1,6 @@
 # PuntoVLC
 
-[Link a Heroku](https://quiet-waters-59457.herokuapp.com/)
+[Link a Heroku](https://frozen-bastion-93607.herokuapp.com/)
 
 Proyecto final para Desafío Latam g28 Full Stack
 
