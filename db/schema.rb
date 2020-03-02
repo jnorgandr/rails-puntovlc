@@ -19,7 +19,7 @@ ActiveRecord::Schema.define(version: 2020_03_02_151821) do
     t.string "name"
     t.string "address"
     t.string "profile_picture"
-    t.boolean "admin"
+    t.boolean "admin", default: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.string "email", default: "", null: false
